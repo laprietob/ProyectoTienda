@@ -1,0 +1,7 @@
+co\edu\uniminuto\entity\Producto.class
+co\edu\uniminuto\gui\DesktopTienda$1.class
+co\edu\uniminuto\gui\RegistrarProducto.class
+co\edu\uniminuto\gui\DesktopTienda.class
+co\edu\uniminuto\gui\DesktopTienda$2.class
+co\edu\uniminuto\dao\ProductoDao.class
+co\edu\uniminuto\conexion\ConexionDB.class
